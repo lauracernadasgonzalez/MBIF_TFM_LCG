@@ -1,0 +1,939 @@
+run_accession	experiment_title	collection_date	country	instrument_platform
+ERR12384777	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384780	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384789	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12384791	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384801	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384805	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-02	Spain	ILLUMINA
+ERR12384809	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384812	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384814	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384818	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384820	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-02	Spain	ILLUMINA
+ERR12384823	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384855	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384857	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384858	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384860	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384862	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384863	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384866	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384896	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-17	Spain	ILLUMINA
+ERR12384897	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12384906	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-16	Spain	ILLUMINA
+ERR12384911	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384912	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-16	Spain	ILLUMINA
+ERR12384915	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384917	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-12	Spain	ILLUMINA
+ERR12384922	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384927	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384928	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384929	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384931	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384935	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384938	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12384939	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12384940	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12384942	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12384943	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12384944	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384948	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-02	Spain	ILLUMINA
+ERR12384953	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384959	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-12	Spain	ILLUMINA
+ERR12384965	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12384987	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385006	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12385012	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12385014	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385015	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12385028	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12385032	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12385041	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385042	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385057	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12385058	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12385060	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12385061	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12385063	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12385066	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-02	Spain	ILLUMINA
+ERR12385079	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12385087	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385092	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12385096	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385101	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385102	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385115	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385116	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385118	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385120	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385123	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385126	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385127	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385133	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12386409	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386415	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386416	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386420	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386421	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386422	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386424	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386432	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386434	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386446	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386457	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-09	Spain	ILLUMINA
+ERR12386459	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12386460	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12386461	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-12	Spain	ILLUMINA
+ERR12386465	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-18	Spain	ILLUMINA
+ERR12386474	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12386477	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-23	Spain	ILLUMINA
+ERR12386485	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-23	Spain	ILLUMINA
+ERR12386490	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-12	Spain	ILLUMINA
+ERR12386491	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12386576	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386579	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386583	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12386585	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386586	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12386589	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386590	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386591	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-06	Spain	ILLUMINA
+ERR12386592	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-28	Spain	ILLUMINA
+ERR12386593	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386596	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386599	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386603	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386604	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-28	Spain	ILLUMINA
+ERR12386608	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-15	Spain	ILLUMINA
+ERR12386611	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386613	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386614	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-30	Spain	ILLUMINA
+ERR12386615	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-16	Spain	ILLUMINA
+ERR12386617	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386620	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-18	Spain	ILLUMINA
+ERR12386621	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-20	Spain	ILLUMINA
+ERR12386622	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386623	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386630	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386632	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386636	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-28	Spain	ILLUMINA
+ERR12386639	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12386641	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-01	Spain	ILLUMINA
+ERR12386645	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-28	Spain	ILLUMINA
+ERR12386651	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386652	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386655	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-30	Spain	ILLUMINA
+ERR12386657	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12386658	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12386667	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12386668	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386669	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386671	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-28	Spain	ILLUMINA
+ERR12386673	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386674	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386677	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-30	Spain	ILLUMINA
+ERR12386679	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12386685	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12386688	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386693	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-20	Spain	ILLUMINA
+ERR12386695	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386703	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386707	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386712	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-20	Spain	ILLUMINA
+ERR12386717	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12386724	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386729	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386736	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12386739	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-15	Spain	ILLUMINA
+ERR12386740	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-15	Spain	ILLUMINA
+ERR12386743	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-21	Spain	ILLUMINA
+ERR12386749	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12386755	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-12	Spain	ILLUMINA
+ERR12386760	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386761	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386765	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-12	Spain	ILLUMINA
+ERR12386767	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12386770	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12386773	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12386775	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-15	Spain	ILLUMINA
+ERR12386777	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386781	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386782	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386783	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-18	Spain	ILLUMINA
+ERR12386786	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386792	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386794	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386799	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386801	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-06	Spain	ILLUMINA
+ERR12386813	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-28	Spain	ILLUMINA
+ERR12386814	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12386818	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386819	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386823	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386834	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-06	Spain	ILLUMINA
+ERR12386835	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-01	Spain	ILLUMINA
+ERR12386836	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386840	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386841	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386846	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386850	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386852	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386854	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386856	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386863	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-14	Spain	ILLUMINA
+ERR12386864	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-14	Spain	ILLUMINA
+ERR12386866	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-12	Spain	ILLUMINA
+ERR12386874	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386875	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386885	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386901	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386903	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386906	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386908	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386910	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386913	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386915	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12386916	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386917	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386919	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386925	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386927	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386930	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386934	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386935	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386937	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386938	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12386941	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12386942	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12386945	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386947	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386965	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-28	Spain	ILLUMINA
+ERR12386967	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-29	Spain	ILLUMINA
+ERR12386969	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12386971	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-28	Spain	ILLUMINA
+ERR12386974	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386977	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-23	Spain	ILLUMINA
+ERR12386978	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12386982	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-28	Spain	ILLUMINA
+ERR12386989	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-15	Spain	ILLUMINA
+ERR12386991	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386993	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-07	Spain	ILLUMINA
+ERR12386994	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386997	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12386998	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12387000	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12387005	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12387008	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12387010	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12387018	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12387022	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12387023	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-12	Spain	ILLUMINA
+ERR12387027	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-23	Spain	ILLUMINA
+ERR12387030	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12387036	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-12	Spain	ILLUMINA
+ERR12387037	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-07	Spain	ILLUMINA
+ERR12387038	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12387039	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12387041	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12387043	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12387360	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387364	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387365	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387367	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-08	Spain	ILLUMINA
+ERR12387368	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387372	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-11	Spain	ILLUMINA
+ERR12387377	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-13	Spain	ILLUMINA
+ERR12387379	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-21	Spain	ILLUMINA
+ERR12387381	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12387382	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387383	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-22	Spain	ILLUMINA
+ERR12387386	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12387388	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12387391	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-21	Spain	ILLUMINA
+ERR12387395	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12387476	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-21	Spain	ILLUMINA
+ERR12387477	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12387478	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12387480	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-31	Spain	ILLUMINA
+ERR12387486	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12387490	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-12	Spain	ILLUMINA
+ERR12387494	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12387498	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12387500	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12387501	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12387502	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-21	Spain	ILLUMINA
+ERR12387503	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12387508	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-10	Spain	ILLUMINA
+ERR12387517	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12387518	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387520	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12387523	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12387525	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12387526	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12387527	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387528	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387529	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387533	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387535	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387541	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387548	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-13	Spain	ILLUMINA
+ERR12387550	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-13	Spain	ILLUMINA
+ERR12410401	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-07	Spain	ILLUMINA
+ERR12410402	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-07	Spain	ILLUMINA
+ERR12410404	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-07	Spain	ILLUMINA
+ERR12410406	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12410407	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12410409	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12410413	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12410419	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12410422	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-03	Spain	ILLUMINA
+ERR12410423	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-03	Spain	ILLUMINA
+ERR12410425	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-03	Spain	ILLUMINA
+ERR12410435	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-08	Spain	ILLUMINA
+ERR12410696	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-24	Spain	ILLUMINA
+ERR12410698	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-12-03	Spain	ILLUMINA
+ERR12410699	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-10	Spain	ILLUMINA
+ERR12410700	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-12	Spain	ILLUMINA
+ERR12410702	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-21	Spain	ILLUMINA
+ERR12410705	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-12-01	Spain	ILLUMINA
+ERR12410707	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-12-05	Spain	ILLUMINA
+ERR12410709	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-30	Spain	ILLUMINA
+ERR12410713	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410714	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410715	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410721	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410732	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-28	Spain	ILLUMINA
+ERR12410736	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-12-11	Spain	ILLUMINA
+ERR12410738	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-12-11	Spain	ILLUMINA
+ERR12421735	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-29	Spain	ILLUMINA
+ERR12421736	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-21	Spain	ILLUMINA
+ERR12421738	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-25	Spain	ILLUMINA
+ERR12421740	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-23	Spain	ILLUMINA
+ERR12421743	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-21	Spain	ILLUMINA
+ERR12421744	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-24	Spain	ILLUMINA
+ERR12421746	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-24	Spain	ILLUMINA
+ERR12384781	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384785	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384786	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384787	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12384788	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12384792	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384796	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384797	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-02	Spain	ILLUMINA
+ERR12384799	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384802	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384806	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384807	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384810	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12384813	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12384815	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384822	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384824	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-02	Spain	ILLUMINA
+ERR12384826	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384827	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384828	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384829	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384854	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384859	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384865	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384868	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384871	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384901	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-10	Spain	ILLUMINA
+ERR12384903	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12384904	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384905	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12384907	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12384908	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12384909	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12384910	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-10	Spain	ILLUMINA
+ERR12384919	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384920	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384936	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384941	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384945	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384946	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384947	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384950	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12384951	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384970	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384979	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384980	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-15	Spain	ILLUMINA
+ERR12384985	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12384994	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385004	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-02	Spain	ILLUMINA
+ERR12385005	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12385011	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12385016	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12385020	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-16	Spain	ILLUMINA
+ERR12385021	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-16	Spain	ILLUMINA
+ERR12385022	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-17	Spain	ILLUMINA
+ERR12385023	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-15	Spain	ILLUMINA
+ERR12385025	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12385033	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12385034	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-02	Spain	ILLUMINA
+ERR12385045	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-02	Spain	ILLUMINA
+ERR12385049	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-16	Spain	ILLUMINA
+ERR12385051	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385075	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385077	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12385083	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12385086	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385094	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12385095	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385099	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12385108	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12385110	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385111	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385112	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385113	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385117	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385119	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385122	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385128	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385129	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385131	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385132	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12386411	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386413	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-24	Spain	ILLUMINA
+ERR12386414	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386417	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386418	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386419	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386423	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386425	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-24	Spain	ILLUMINA
+ERR12386426	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-24	Spain	ILLUMINA
+ERR12386428	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386436	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386437	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386438	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386440	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-23	Spain	ILLUMINA
+ERR12386441	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386444	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386447	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386449	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386454	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12386456	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12386463	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-16	Spain	ILLUMINA
+ERR12386467	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12386473	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12386475	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-23	Spain	ILLUMINA
+ERR12386476	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-23	Spain	ILLUMINA
+ERR12386481	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12386486	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-18	Spain	ILLUMINA
+ERR12386569	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386570	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12386571	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-07	Spain	ILLUMINA
+ERR12386575	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-07	Spain	ILLUMINA
+ERR12386578	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-28	Spain	ILLUMINA
+ERR12386580	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386582	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386588	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12386597	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386601	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386605	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386606	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386607	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-30	Spain	ILLUMINA
+ERR12386610	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-12	Spain	ILLUMINA
+ERR12386625	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386627	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12386628	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386631	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386642	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-30	Spain	ILLUMINA
+ERR12386643	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-30	Spain	ILLUMINA
+ERR12386670	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386672	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-28	Spain	ILLUMINA
+ERR12386676	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386678	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386681	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12386683	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12386687	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12386690	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12386691	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386692	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386697	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-20	Spain	ILLUMINA
+ERR12386698	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386700	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386702	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386704	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386706	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386711	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-20	Spain	ILLUMINA
+ERR12386713	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-15	Spain	ILLUMINA
+ERR12386714	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12386718	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-15	Spain	ILLUMINA
+ERR12386721	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12386723	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386725	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12386726	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12386733	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386735	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12386738	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12386744	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386746	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386750	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386751	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386752	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386753	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386756	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386759	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386762	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386763	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12386764	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-15	Spain	ILLUMINA
+ERR12386766	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386778	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386780	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386788	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386789	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386790	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12386791	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12386796	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12386797	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386798	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12386802	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386804	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-12	Spain	ILLUMINA
+ERR12386815	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12386821	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386822	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386824	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386825	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-21	Spain	ILLUMINA
+ERR12386828	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386830	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-01	Spain	ILLUMINA
+ERR12386833	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-06	Spain	ILLUMINA
+ERR12386837	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386838	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-06	Spain	ILLUMINA
+ERR12386839	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12386842	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386847	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386848	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386853	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386859	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-12	Spain	ILLUMINA
+ERR12386861	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386867	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386869	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386876	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386877	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386880	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386882	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386883	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386911	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386921	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386922	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12386924	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-06	Spain	ILLUMINA
+ERR12386936	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386940	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12386944	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12386946	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386968	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12386975	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386979	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386981	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12386983	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386984	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386986	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386987	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-15	Spain	ILLUMINA
+ERR12386988	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-15	Spain	ILLUMINA
+ERR12386990	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12386995	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12386996	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12387002	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12387006	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12387011	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-23	Spain	ILLUMINA
+ERR12387013	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12387017	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12387019	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12387020	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12387026	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12387028	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12387031	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12387032	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12387034	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12387035	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12387040	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-21	Spain	ILLUMINA
+ERR12387042	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12387349	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387355	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12387356	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12387358	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-13	Spain	ILLUMINA
+ERR12387373	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-31	Spain	ILLUMINA
+ERR12387375	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-10	Spain	ILLUMINA
+ERR12387385	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12387390	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12387392	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-23	Spain	ILLUMINA
+ERR12387394	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-01	Spain	ILLUMINA
+ERR12387396	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-23	Spain	ILLUMINA
+ERR12387479	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12387481	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-01	Spain	ILLUMINA
+ERR12387482	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12387483	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387484	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12387485	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12387487	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-04	Spain	ILLUMINA
+ERR12387488	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387489	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-15	Spain	ILLUMINA
+ERR12387492	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-29	Spain	ILLUMINA
+ERR12387495	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-02	Spain	ILLUMINA
+ERR12387497	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-23	Spain	ILLUMINA
+ERR12387499	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12387504	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12387509	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-10	Spain	ILLUMINA
+ERR12387513	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12387516	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-13	Spain	ILLUMINA
+ERR12387519	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12387524	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-14	Spain	ILLUMINA
+ERR12387532	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387534	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387536	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387537	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387542	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387545	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387546	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-13	Spain	ILLUMINA
+ERR12387551	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-13	Spain	ILLUMINA
+ERR12410400	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-31	Spain	ILLUMINA
+ERR12410403	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-07	Spain	ILLUMINA
+ERR12410405	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-31	Spain	ILLUMINA
+ERR12410411	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12410412	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12410414	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12410415	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12410418	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12410424	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-03	Spain	ILLUMINA
+ERR12410427	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12410428	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12410429	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12410691	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12410701	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-14	Spain	ILLUMINA
+ERR12410706	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-24	Spain	ILLUMINA
+ERR12410711	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-16	Spain	ILLUMINA
+ERR12410712	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410716	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410717	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410719	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410720	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410723	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410724	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410725	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410729	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-28	Spain	ILLUMINA
+ERR12410733	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-28	Spain	ILLUMINA
+ERR12410734	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-28	Spain	ILLUMINA
+ERR12410737	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-12-11	Spain	ILLUMINA
+ERR12410739	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-12-11	Spain	ILLUMINA
+ERR12421737	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-23	Spain	ILLUMINA
+ERR12421745	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-23	Spain	ILLUMINA
+ERR12421747	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-19	Spain	ILLUMINA
+ERR12421749	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-16	Spain	ILLUMINA
+ERR12421751	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-27	Spain	ILLUMINA
+ERR12421753	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-16	Spain	ILLUMINA
+ERR12384783	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384784	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384790	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384794	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384795	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12384800	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384804	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384830	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384833	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384834	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-02	Spain	ILLUMINA
+ERR12384836	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384838	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384839	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384861	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384864	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384867	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384869	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384870	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384872	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384898	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12384899	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-10	Spain	ILLUMINA
+ERR12384900	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-15	Spain	ILLUMINA
+ERR12384902	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12384913	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12384914	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384916	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12384918	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-09	Spain	ILLUMINA
+ERR12384921	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-10	Spain	ILLUMINA
+ERR12384926	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-03	Spain	ILLUMINA
+ERR12384932	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384933	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12384934	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12384937	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12384952	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-06	Spain	ILLUMINA
+ERR12384981	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12384989	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12384992	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12384997	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-12	Spain	ILLUMINA
+ERR12384998	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-09	Spain	ILLUMINA
+ERR12385003	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385007	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12385008	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12385009	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12385013	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385018	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385019	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-16	Spain	ILLUMINA
+ERR12385024	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-16	Spain	ILLUMINA
+ERR12385026	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385054	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12385056	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-09	Spain	ILLUMINA
+ERR12385059	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12385062	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12385064	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-07	Spain	ILLUMINA
+ERR12385067	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385068	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12385071	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12385072	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12385081	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-12	Spain	ILLUMINA
+ERR12385088	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12385093	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-04	Spain	ILLUMINA
+ERR12385097	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12385100	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-05	Spain	ILLUMINA
+ERR12385109	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385114	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12385121	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385124	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385125	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12385130	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12386412	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386427	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-25	Spain	ILLUMINA
+ERR12386429	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386430	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386431	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-24	Spain	ILLUMINA
+ERR12386433	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386435	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386439	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-20	Spain	ILLUMINA
+ERR12386442	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-24	Spain	ILLUMINA
+ERR12386443	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386445	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386448	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386450	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386455	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12386458	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-09	Spain	ILLUMINA
+ERR12386462	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12386464	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-18	Spain	ILLUMINA
+ERR12386466	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-18	Spain	ILLUMINA
+ERR12386468	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-19	Spain	ILLUMINA
+ERR12386469	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-23	Spain	ILLUMINA
+ERR12386478	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386482	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12386483	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386484	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-24	Spain	ILLUMINA
+ERR12386487	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-14	Spain	ILLUMINA
+ERR12386572	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12386573	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386574	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386577	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12386581	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386584	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12386587	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12386594	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386595	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386598	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386600	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386602	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-06	Spain	ILLUMINA
+ERR12386609	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-16	Spain	ILLUMINA
+ERR12386612	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386616	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386618	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386619	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-18	Spain	ILLUMINA
+ERR12386624	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386626	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386629	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386633	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-23	Spain	ILLUMINA
+ERR12386634	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386635	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386637	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386638	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386640	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-28	Spain	ILLUMINA
+ERR12386644	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386653	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-26	Spain	ILLUMINA
+ERR12386656	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12386659	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-12	Spain	ILLUMINA
+ERR12386660	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-18	Spain	ILLUMINA
+ERR12386665	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386666	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-13	Spain	ILLUMINA
+ERR12386675	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386680	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12386682	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12386686	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-12	Spain	ILLUMINA
+ERR12386689	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-20	Spain	ILLUMINA
+ERR12386694	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-20	Spain	ILLUMINA
+ERR12386696	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386699	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386701	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386705	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386708	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386709	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-22	Spain	ILLUMINA
+ERR12386710	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386715	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-08	Spain	ILLUMINA
+ERR12386716	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-11	Spain	ILLUMINA
+ERR12386719	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-15	Spain	ILLUMINA
+ERR12386720	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-15	Spain	ILLUMINA
+ERR12386727	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386728	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-21	Spain	ILLUMINA
+ERR12386730	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386731	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386732	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386734	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386737	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12386741	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12386742	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12386745	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12386747	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12386748	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386754	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386757	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386758	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12386768	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12386769	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12386771	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-14	Spain	ILLUMINA
+ERR12386772	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12386774	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12386776	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386779	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-24	Spain	ILLUMINA
+ERR12386784	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-18	Spain	ILLUMINA
+ERR12386785	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386787	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-06	Spain	ILLUMINA
+ERR12386793	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12386795	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-27	Spain	ILLUMINA
+ERR12386800	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12386803	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12386812	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-28	Spain	ILLUMINA
+ERR12386816	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386817	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12386820	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-15	Spain	ILLUMINA
+ERR12386826	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12386827	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12386829	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386831	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-06	Spain	ILLUMINA
+ERR12386832	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-12	Spain	ILLUMINA
+ERR12386843	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386844	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386845	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-09-29	Spain	ILLUMINA
+ERR12386849	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386851	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-06	Spain	ILLUMINA
+ERR12386855	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-13	Spain	ILLUMINA
+ERR12386857	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386858	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-12	Spain	ILLUMINA
+ERR12386860	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-14	Spain	ILLUMINA
+ERR12386862	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-12	Spain	ILLUMINA
+ERR12386865	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-14	Spain	ILLUMINA
+ERR12386868	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386870	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386871	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386872	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386873	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386878	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386879	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386881	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386884	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386886	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386902	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386904	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386905	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12386907	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386909	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386912	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386914	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386918	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386920	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386923	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-04	Spain	ILLUMINA
+ERR12386926	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386928	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386929	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386931	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12386932	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386933	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-11	Spain	ILLUMINA
+ERR12386939	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12386943	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12386966	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-29	Spain	ILLUMINA
+ERR12386970	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12386972	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12386973	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12386976	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-29	Spain	ILLUMINA
+ERR12386980	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12386985	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-10	Spain	ILLUMINA
+ERR12386992	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12386999	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-28	Spain	ILLUMINA
+ERR12387001	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12387003	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-20	Spain	ILLUMINA
+ERR12387004	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12387007	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12387009	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-05	Spain	ILLUMINA
+ERR12387012	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12387014	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12387015	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12387016	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-03	Spain	ILLUMINA
+ERR12387021	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-09	Spain	ILLUMINA
+ERR12387024	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12387025	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-19	Spain	ILLUMINA
+ERR12387029	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12387033	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-21	Spain	ILLUMINA
+ERR12387348	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-12	Spain	ILLUMINA
+ERR12387350	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-13	Spain	ILLUMINA
+ERR12387351	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-08	Spain	ILLUMINA
+ERR12387352	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-04	Spain	ILLUMINA
+ERR12387353	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-02	Spain	ILLUMINA
+ERR12387354	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387359	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-07	Spain	ILLUMINA
+ERR12387361	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-05	Spain	ILLUMINA
+ERR12387362	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-07	Spain	ILLUMINA
+ERR12387363	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-10	Spain	ILLUMINA
+ERR12387369	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-02	Spain	ILLUMINA
+ERR12387370	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-10	Spain	ILLUMINA
+ERR12387374	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387376	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-04	Spain	ILLUMINA
+ERR12387378	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12387380	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387387	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-02	Spain	ILLUMINA
+ERR12387389	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-08	Spain	ILLUMINA
+ERR12387393	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-23	Spain	ILLUMINA
+ERR12387397	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-03	Spain	ILLUMINA
+ERR12387398	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-17	Spain	ILLUMINA
+ERR12387491	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-01	Spain	ILLUMINA
+ERR12387493	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-29	Spain	ILLUMINA
+ERR12387496	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12387505	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12387506	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12387507	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-26	Spain	ILLUMINA
+ERR12387510	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-05	Spain	ILLUMINA
+ERR12387511	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-04	Spain	ILLUMINA
+ERR12387512	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387514	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-16	Spain	ILLUMINA
+ERR12387515	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387521	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-11	Spain	ILLUMINA
+ERR12387522	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-18	Spain	ILLUMINA
+ERR12387530	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387531	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12387538	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387539	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387540	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387543	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387544	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12387547	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-13	Spain	ILLUMINA
+ERR12387549	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-13	Spain	ILLUMINA
+ERR12410397	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-31	Spain	ILLUMINA
+ERR12410399	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-24	Spain	ILLUMINA
+ERR12410408	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-23	Spain	ILLUMINA
+ERR12410410	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-25	Spain	ILLUMINA
+ERR12410416	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-27	Spain	ILLUMINA
+ERR12410417	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-06	Spain	ILLUMINA
+ERR12410420	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-09	Spain	ILLUMINA
+ERR12410421	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-09	Spain	ILLUMINA
+ERR12410426	Illumina iSeq 100 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-10-30	Spain	ILLUMINA
+ERR12410695	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-02	Spain	ILLUMINA
+ERR12410697	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-09	Spain	ILLUMINA
+ERR12410703	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-17	Spain	ILLUMINA
+ERR12410704	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-12-05	Spain	ILLUMINA
+ERR12410708	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-27	Spain	ILLUMINA
+ERR12410718	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410722	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410726	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410727	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410728	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-20	Spain	ILLUMINA
+ERR12410730	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-28	Spain	ILLUMINA
+ERR12410731	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-28	Spain	ILLUMINA
+ERR12410735	NextSeq 2000 sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-28	Spain	ILLUMINA
+ERR12421739	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-27	Spain	ILLUMINA
+ERR12421741	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-22	Spain	ILLUMINA
+ERR12421742	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-26	Spain	ILLUMINA
+ERR12421748	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-17	Spain	ILLUMINA
+ERR12421750	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-27	Spain	ILLUMINA
+ERR12421752	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-16	Spain	ILLUMINA
+ERR12421754	Illumina MiniSeq sequencing: Whole genome sequencing of SARS-CoV-2 for epidemiological surveillance in Andalusia (Spain)	2023-11-26	Spain	ILLUMINA
